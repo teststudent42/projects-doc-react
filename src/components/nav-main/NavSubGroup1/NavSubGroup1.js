@@ -12,7 +12,7 @@ export default function NavSubGroup1()
                 <Link to="/group-1"
                     className="nav-link d-flex align-items-center justify-content-between">
                     <span>Group 1</span>
-                    <button type="button" class="btn btn-primary d-flex align-items-center justify-content-center"
+                    <button type="button" className="btn btn-primary d-flex align-items-center justify-content-center"
                         data-bs-toggle="collapse" 
                         data-bs-target="#nm-g1-collapse" 
                         aria-expanded="false" aria-controls="nm-g1-collapse">
@@ -22,7 +22,7 @@ export default function NavSubGroup1()
             </li>
             <ul className="nav flex-column collapse" id="nm-g1-collapse">
                 <li className="nav-item">
-                    <a className="nav-link" href="#">block-runner</a>
+                    <a className="nav-link" href="/group-1/block-runner">block-runner</a>
                 </li>
             </ul> 
         </ul> 

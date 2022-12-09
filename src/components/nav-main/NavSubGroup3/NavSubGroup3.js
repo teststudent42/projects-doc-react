@@ -12,7 +12,7 @@ export default function NavSubGroup3()
                 <Link to="/group-3"
                     className="nav-link d-flex align-items-center justify-content-between">
                     <span>Group 3</span>
-                    <button type="button" class="btn btn-primary d-flex align-items-center justify-content-center"
+                    <button type="button" className="btn btn-primary d-flex align-items-center justify-content-center"
                         data-bs-toggle="collapse" 
                         data-bs-target="#nm-g3-collapse" 
                         aria-expanded="false" aria-controls="nm-g3-collapse">

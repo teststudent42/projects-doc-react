@@ -35,3 +35,6 @@ https://stackoverflow.com/questions/39320393/jsx-or-html-autocompletion-in-visua
 - Bootstrap
 https://getbootstrap.com/
 https://react-bootstrap.github.io/getting-started/introduction/
+
+- React Router
+https://stackoverflow.com/questions/64291991/nested-routing-is-not-working-in-react-router-v6
